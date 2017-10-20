@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-family: Avenir;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.play {
+  padding: 30px;
+  border-bottom: 1px solid #f0f0f0;
+
+}
+
+.play img {
+  width: 200px;
+  display: inline-block;
+}
+
+.playInfo {
+  display: inline-block;
+  padding: 20px;
+}
+
+.playName {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.playType {
+  font-size: 24px;
+}
+
+.playDate {
+  font-size: 16px;
+  font-style: italic;
+}
+
+button {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+input {
+  padding: 5px;
+  border-radius: 3px;
+}
+
